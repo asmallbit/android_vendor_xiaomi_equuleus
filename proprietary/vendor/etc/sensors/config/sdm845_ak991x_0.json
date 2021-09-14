@@ -1,7 +1,7 @@
 {
   "config":
   {
-    "hw_platform": ["MTP", "Surf", "DIPPER"],
+    "hw_platform": ["MTP", "Surf", "EQUULEUS"],
     "soc_id": ["321"]
   },
   "ak0991x_0_platform":{
@@ -56,14 +56,14 @@
     },
     ".orient":{
       "owner": "sns_ak0991x",
-      "x":{ "type": "str", "ver": "2",
-        "data": "+x"
+      "x":{ "type": "str", "ver": "0",
+        "data": "-x"
       },
-      "y":{ "type": "str", "ver": "2",
+      "y":{ "type": "str", "ver": "0",
         "data": "-y"
       },
-      "z":{ "type": "str", "ver": "2",
-        "data": "-z"
+      "z":{ "type": "str", "ver": "0",
+        "data": "+z"
       }
     },
     ".mag":{

@@ -1,6 +1,6 @@
 {
   "config":{
-    "hw_platform": ["MTP", "Surf", "DIPPER"],
+    "hw_platform": ["MTP", "Surf","EQUULEUS"],
     "soc_id": ["321"]
   },
   "power":{
@@ -321,14 +321,14 @@
         "active_fs":{ "type": "int", "ver": "0",
           "data": "1"
         },
-        "active_dir":{ "type": "int", "ver": "1",
-          "data": "0"
+        "active_dir":{ "type": "int", "ver": "0",
+          "data": "1"
         },
         "active_pull":{ "type": "int", "ver": "0",
           "data": "0"
         },
-        "active_drive":{ "type": "int", "ver": "1",
-          "data": "0"
+        "active_drive":{ "type": "int", "ver": "0",
+          "data": "3"
         },
         "sleep_fs":{ "type": "int", "ver": "0",
           "data": "1"
@@ -336,11 +336,11 @@
         "sleep_dir":{ "type": "int", "ver": "0",
           "data": "0"
         },
-        "sleep_pull":{ "type": "int", "ver": "1",
-          "data": "0"
+        "sleep_pull":{ "type": "int", "ver": "0",
+          "data": "2"
         },
-        "sleep_drive":{ "type": "int", "ver": "1",
-          "data": "0"
+        "sleep_drive":{ "type": "int", "ver": "0",
+          "data": "3"
         }
       },
       ".gpio_11":{
@@ -501,14 +501,14 @@
         "active_fs":{ "type": "int", "ver": "0",
           "data": "1"
         },
-        "active_dir":{ "type": "int", "ver": "1",
-          "data": "0"
+        "active_dir":{ "type": "int", "ver": "0",
+          "data": "1"
         },
         "active_pull":{ "type": "int", "ver": "0",
           "data": "0"
         },
-        "active_drive":{ "type": "int", "ver": "1",
-          "data": "0"
+        "active_drive":{ "type": "int", "ver": "0",
+          "data": "3"
         },
         "sleep_fs":{ "type": "int", "ver": "0",
           "data": "1"
@@ -516,11 +516,11 @@
         "sleep_dir":{ "type": "int", "ver": "0",
           "data": "0"
         },
-        "sleep_pull":{ "type": "int", "ver": "1",
-          "data": "0"
+        "sleep_pull":{ "type": "int", "ver": "0",
+          "data": "2"
         },
-        "sleep_drive":{ "type": "int", "ver": "1",
-          "data": "0"
+        "sleep_drive":{ "type": "int", "ver": "0",
+          "data": "3"
         }
       },
       ".gpio_17":{
@@ -531,14 +531,14 @@
         "active_fs":{ "type": "int", "ver": "0",
           "data": "1"
         },
-        "active_dir":{ "type": "int", "ver": "1",
-          "data": "1"
+        "active_dir":{ "type": "int", "ver": "0",
+          "data": "0"
         },
         "active_pull":{ "type": "int", "ver": "0",
           "data": "0"
         },
-        "active_drive":{ "type": "int", "ver": "1",
-          "data": "0"
+        "active_drive":{ "type": "int", "ver": "0",
+          "data": "3"
         },
         "sleep_fs":{ "type": "int", "ver": "0",
           "data": "1"
@@ -546,11 +546,11 @@
         "sleep_dir":{ "type": "int", "ver": "0",
           "data": "0"
         },
-        "sleep_pull":{ "type": "int", "ver": "1",
-          "data": "0"
+        "sleep_pull":{ "type": "int", "ver": "0",
+          "data": "2"
         },
-        "sleep_drive":{ "type": "int", "ver": "1",
-          "data": "0"
+        "sleep_drive":{ "type": "int", "ver": "0",
+          "data": "3"
         }
       }
     }

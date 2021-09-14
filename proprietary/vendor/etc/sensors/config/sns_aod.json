@@ -1,7 +1,7 @@
 {
   "config": {
     "hw_platform": [
-      "MTP", "Dragon", "Surf", "POLARIS", "URSA", "DIPPER"
+      "MTP", "Dragon", "Surf", "POLARIS", "URSA", "EQUULEUS"
     ],
     "soc_id": [
       "291", "246", "305", "321"
@@ -21,7 +21,7 @@
 	      "ver": "2", "type": "flt", "data": "3000"
 	    },
 	    "param4": {
-	      "ver": "0", "type": "flt", "data": "1"
+	      "ver": "0", "type": "flt", "data": "0"
 	    }
 	  }
   }
